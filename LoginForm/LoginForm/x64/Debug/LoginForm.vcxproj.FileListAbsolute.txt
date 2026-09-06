@@ -1,0 +1,8 @@
+C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\LoginForm\x64\Debug\LoginForm.vcxproj.AssemblyReference.cache
+C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\LoginForm\x64\Debug\LoginForm.custmors.resources
+C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\LoginForm\x64\Debug\LoginForm.Home.resources
+C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\LoginForm\x64\Debug\LoginForm.Login.resources
+C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\LoginForm\x64\Debug\LoginForm.ordersform.resources
+C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\LoginForm\x64\Debug\LoginForm.Products.resources
+C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\LoginForm\x64\Debug\LoginForm.SignUp.resources
+C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\LoginForm\x64\Debug\LoginForm.vcxproj.GenerateResource.cache

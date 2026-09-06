@@ -1,0 +1,8 @@
+﻿  Home.cpp
+  Login.cpp
+C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\LoginForm\Login.cpp(6,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Products.cpp
+  main.cpp
+  Generating Code...
+  custmors.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LoginForm.vcxproj -> C:\Users\dream2000\OneDrive\Documents\inventory tracker\LoginForm\x64\Debug\LoginForm.exe
